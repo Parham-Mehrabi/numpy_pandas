@@ -1,0 +1,1 @@
+learning numpy and pandas and take notes here
